@@ -1,0 +1,14 @@
+.lo1 {
+  border: 1px solid silver;
+  background-color: lightyellow;
+  padding-left: 5px;
+  pointer: hand;
+}
+
+.a1 {
+	background-color :darkgreen ;
+  	border: 1px solid silver;
+  	width:300px;
+  	pointer: hand ;
+  	color:white;
+}
